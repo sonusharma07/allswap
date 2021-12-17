@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/allswap/static/css/main.073c9b0a.css",
+    "main.js": "/allswap/static/js/main.efba843c.js",
+    "static/js/787.9356a234.chunk.js": "/allswap/static/js/787.9356a234.chunk.js",
+    "static/media/logo.svg": "/allswap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/allswap/index.html",
+    "main.073c9b0a.css.map": "/allswap/static/css/main.073c9b0a.css.map",
+    "main.efba843c.js.map": "/allswap/static/js/main.efba843c.js.map",
+    "787.9356a234.chunk.js.map": "/allswap/static/js/787.9356a234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.efba843c.js"
+  ]
+}
